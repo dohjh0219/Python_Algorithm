@@ -14,3 +14,4 @@ class Solution:
 
         return True
         
+# 리스트로 처리하는 것보다 양방향 처리가 가능한 Deque로의 처리속도가 리스트보다 월등히 빠름. 
